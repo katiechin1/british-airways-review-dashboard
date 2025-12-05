@@ -22,5 +22,6 @@ This project analyzes customer reviews of British Airways to uncover trends in p
 - **Data Analysis** (KPI creation, segmentation, trend analysis)
 
 ### Dashboard
-<img width="1213" height="700" alt="Screenshot 2025-12-04 at 1 29 02 PM" src="https://github.com/user-attachments/assets/105f7bac-8c86-4208-a7ee-5ba88b2cdc63" />
+<img width="1215" height="708" alt="Screenshot 2025-12-05 at 3 44 47 PM" src="https://github.com/user-attachments/assets/989aa096-8592-41f0-9823-2a24e1cb7b22" />
+
 
