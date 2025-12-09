@@ -1,4 +1,4 @@
-# KPIs — British Airways Customer Review Analysis
+# Key Performance Indicators — British Airways Customer Review Analysis
 
 ## Executive Summary
 This document outlines the KPIs used to evaluate British Airways' customer satisfaction across aircraft types, regions, traveler segments, and time periods. These metrics provide an executive-level view of performance patterns and areas for improvement.
