@@ -23,7 +23,7 @@ This project analyzes customer reviews of British Airways to uncover trends in p
 ### Dashboard
 <img width="1215" height="708" alt="Screenshot 2025-12-05 at 3 44 47 PM" src="https://github.com/user-attachments/assets/989aa096-8592-41f0-9823-2a24e1cb7b22" />
 
-View the full interactive Tableau dashboard here: [Tableau Interactive Dashboard](https://public.tableau.com/views/BritishAirwaysReviewTableau_17479361926950/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+View the full interactive Tableau dashboard here: [Tableau Interactive Dashboard](https://public.tableau.com/views/British_Airways_Dashboard_17653850075980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ### Interactive Features
 The dashboard allows users to explore British Airways ratings by adjusting several filters:
